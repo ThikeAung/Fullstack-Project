@@ -1,0 +1,7 @@
+/home/thikeaung/Git/Fullstack-Project/build/CMakeFiles/growth_calc.dir
+/home/thikeaung/Git/Fullstack-Project/build/CMakeFiles/edit_cache.dir
+/home/thikeaung/Git/Fullstack-Project/build/CMakeFiles/rebuild_cache.dir
+/home/thikeaung/Git/Fullstack-Project/build/CMakeFiles/list_install_components.dir
+/home/thikeaung/Git/Fullstack-Project/build/CMakeFiles/install.dir
+/home/thikeaung/Git/Fullstack-Project/build/CMakeFiles/install/local.dir
+/home/thikeaung/Git/Fullstack-Project/build/CMakeFiles/install/strip.dir

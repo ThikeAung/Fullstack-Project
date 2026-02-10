@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -O2 -Wl,--dependency-file=CMakeFiles/growth_calc.dir/link.d CMakeFiles/growth_calc.dir/main.cpp.o -o growth_calc  -lm -lpthread
